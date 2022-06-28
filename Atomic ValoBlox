@@ -1,5 +1,1 @@
-game:GetService("StarterGui"):SetCore('SendNotification', {
-            Title = "SCRIPT CURRENTLY DETECTED";
-            Text = "wait for update";
-            Duration = 10;
-})
+-- Discontinued
