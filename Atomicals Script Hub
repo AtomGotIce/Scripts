@@ -14,4 +14,6 @@ elseif game.PlaceId == 6055959032 or 6452089755 then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/AtomGotIce/Scripts/main/Jailbird'))()
 elseif game.PlaceId == 5646604884 then
 loadstring(game:HttpGet('https://raw.githubusercontent.com/AtomGotIce/Scripts/main/Atomic%20Crimson%20Craftwars'))()
+elseif game.PlaceId == 3311740703 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/AtomGotIce/Scripts/main/Counter%20Blox%3A%20Modded'))()
 end
