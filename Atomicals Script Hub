@@ -1,0 +1,17 @@
+--[[
+Atomicals scirpt hub lol
+yes i know i have way more releases that I can add to this but these are my latest scripts so here
+Created by Atomicals
+Contact me:
+Discord: Atomicals#8791 | My Discord ID: 900914230935568425
+V3rmillion: Atomicals
+]]
+if game.PlaceId == 5201688943 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/AtomGotIce/Scripts/main/Da%20hood%20aim'))()
+elseif game.PlaceId == 10243982775 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/AtomGotIce/Scripts/main/RedBox%202'))()
+elseif game.PlaceId == 6055959032 or 6452089755 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/AtomGotIce/Scripts/main/Jailbird'))()
+elseif game.PlaceId == 5646604884 then
+loadstring(game:HttpGet('https://raw.githubusercontent.com/AtomGotIce/Scripts/main/Atomic%20Crimson%20Craftwars'))()
+end
